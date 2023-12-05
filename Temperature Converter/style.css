@@ -1,0 +1,27 @@
+#result29{
+    background-color:rgb(2, 193, 56);
+}
+#resultValueSection{
+    color: white;
+}
+#convertedDegree{
+    font-size: 25px;
+}
+.oneline1{
+    display: inline;
+}
+#bt1{
+    background-color: rgb(219, 6, 6);
+}
+.card-title{
+    color: rgb(27, 22, 36);
+    margin-bottom: 25px;
+}
+.py-sm-2{
+    color: rgb(26, 29, 18);
+}
+.card-group{
+    border: 2px solid green;
+    border-radius: 8px;
+    padding: 5px;
+}
